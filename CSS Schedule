@@ -1,0 +1,5 @@
+<!-- CSS Schedule -->
+
+ body,table {
+	background-color: blue;
+}
