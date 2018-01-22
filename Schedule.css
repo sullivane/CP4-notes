@@ -7,7 +7,69 @@ th{
 td{
 	border: 3px black solid;
 }
+/* CSS Schedule */
 
+th{
+	border: 3px black solid;
+}
+
+td{
+	border: 3px black solid;
+}
+
+/* Colors */
+
+td.m{
+	background-color: purple;
+}
+
+td.ma{
+	background-color: orange;
+}
+
+td.s{
+	background-color: greenyellow;
+}
+
+td.r{
+	background-color: LightSkyBlue;
+}
+
+td.h{
+	background-color: red;
+}
+
+td.f{
+	background-color: blue;
+}
+
+td.cp{
+	background-color: yellow;
+}
+
+td.e{
+	background-color: pink;
+}
+
+td.sp{
+	background-color: grey;
+}
+
+td.ho{
+	background-color: Teal;
+}
+
+td.g{
+	background-color: lightcoral;
+}
+
+td.la{
+	background-color: green;
+}
+td:hover {
+	background-color: cyan;
+	border: 3px cyan solid;
+}
 /* Colors */
 
 td.m{
