@@ -1,1 +1,45 @@
 
+/* JavaScript Schedule */
+
+var = schedule
+
+switch (schedule) {
+	case 'm':
+		console.log('Music')
+			break;
+	case 'ma':
+		console.log('Math')
+			break;
+	case 's':
+		console.log('Science')
+			break;
+	case 'r':
+		console.log('Religion')
+			break;
+	case 'h':
+		console.log('History')
+			break;
+	case 'f':
+		console.log('French')
+			break;
+	case 'cp':
+		console.log('Computer Programming')
+			break;
+	case 'e':
+		console.log('English')
+			break;
+	case 'sp':
+		console.log('Speech')
+			break;
+	case 'ho':
+		console.log('Homeroom')
+			break;
+	case 'g':
+		console.log('Gym')
+			break;
+	case 'la':
+		console.log('Level Assembly')
+			break;
+			
+}
+
