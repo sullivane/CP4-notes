@@ -7,15 +7,6 @@ th{
 td{
 	border: 3px black solid;
 }
-/* CSS Schedule */
-
-th{
-	border: 3px black solid;
-}
-
-td{
-	border: 3px black solid;
-}
 
 /* Colors */
 
@@ -69,53 +60,4 @@ td.la{
 td:hover {
 	background-color: cyan;
 	border: 3px cyan solid;
-}
-/* Colors */
-
-td.m{
-	background-color: purple;
-}
-
-td.ma{
-	background-color: orange;
-}
-
-td.s{
-	background-color: greenyellow;
-}
-
-td.r{
-	background-color: cyan;
-}
-
-td.h{
-	background-color: red;
-}
-
-td.f{
-	background-color: blue;
-}
-
-td.cp{
-	background-color: yellow;
-}
-
-td.e{
-	background-color: pink;
-}
-
-td.sp{
-	background-color: grey;
-}
-
-td.ho{
-	background-color: aqua;
-}
-
-td.g{
-	background-color: brown;
-}
-
-td.la{
-	background-color: green;
 }
