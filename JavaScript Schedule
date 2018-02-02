@@ -1,9 +1,8 @@
-
 /* JavaScript Schedule */
 
-var = schedule
+var = getElementByClassName
 
-switch (schedule) {
+switch () {
 	case 'm':
 		console.log('Music')
 			break;
@@ -42,4 +41,8 @@ switch (schedule) {
 			break;
 			
 }
+
+var music = document.getElementsByClassName("m");
+
+for(i =0 ; music.length; 1++) { music[1].style.borderColor = "cyan"}
 
