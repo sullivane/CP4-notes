@@ -92,5 +92,5 @@ function searcher() {
 				break;
 				
 	}
-	return;
+	
 }
